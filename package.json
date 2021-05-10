@@ -29,7 +29,7 @@
     "mongodb-uri": "^0.9.7",
     "morgan": "^1.9.0",
     "multer": "^1.1.0",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.16",
     "numeral": "^2.0.6",
     "paypal-rest-sdk": "^1.6.9",
     "rand-token": "^0.4.0",
